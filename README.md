@@ -2,5 +2,5 @@
 Banco do Projeto TCC - ETEC São Paulo 
 
 
-<img width="1360" height="7554" alt="screencapture-dmserralheriaartistica-br-2026-01-15-21_14_32" src="https://github.com/user-attachments/assets/6db98c95-b189-40b1-b74b-acef34c550b1" />
+<img width="1360" height="9000" alt="screencapture-dmserralheriaartistica-br-2026-01-15-21_14_32" src="https://github.com/user-attachments/assets/6db98c95-b189-40b1-b74b-acef34c550b1" />
 
